@@ -96,6 +96,7 @@ The second solution is more efficient, as shown in the performance analysis sect
 
 - Inputs: [997, 1000, 5000, 6879, 8999]
 - Solution 2 is approximately twice as fast as Solution 1.
+
 Graphs and detailed analysis are available in the provided report.
 
 ## License
