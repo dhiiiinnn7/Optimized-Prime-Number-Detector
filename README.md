@@ -1,4 +1,4 @@
-# Prime Number Identification System
+# Efficient Prime Number Generation in Python
 
 ## Overview
 
